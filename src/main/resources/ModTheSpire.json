@@ -1,0 +1,13 @@
+{
+  "modid": "Huwa_Mod",
+  "name": "Huwa Mod | Alpha",
+  "author_list": [
+    "LLLLLansy"
+  ],
+  "description": "Adds XiaoBao as a new playable character.",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "0.0.1",
+  "sts_version": "10-19-2024"
+}

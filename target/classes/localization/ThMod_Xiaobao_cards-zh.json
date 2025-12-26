@@ -1,0 +1,18 @@
+{
+  "Strike_Xiaobao": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Defend_Xiaobao": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "Xiaohashao": {
+    "NAME": "小哈烧",
+    "DESCRIPTION": "给予 !M! 层 虚弱 。 NL 给予 !M! 层 易伤 。"
+  },
+  "Xiaobaochongji": {
+    "NAME": "啸宝冲击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 中毒 。"
+  }
+}
